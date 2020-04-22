@@ -1,0 +1,129 @@
+/* 
+font-family: 'Baloo Bhaina 2', cursive; 
+font-family: 'PT Serif', serif;
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: 'Baloo Bhaina 2', cursive;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+/* -----------------------------
+HEADER
+----------------------------- */
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/IMG_6876.JPG);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-family: 'Baloo Bhaina 2', cursive;
+    font-weight: 400;
+}
+
+.main-header-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-35%, 10%);
+}
+
+.main-header {
+    color: white;
+    font-size: 300%;
+}
+
+/* -----------------------------
+NAVBAR
+----------------------------- */
+.navbar {
+    list-style: none;
+    color: white;
+    float: right;
+    margin-top: 45px;
+}
+
+.navbar li {
+    margin-right: 25px;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 90%;
+}
+
+.navbar li a:link,
+.navbar li a:visited {
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar li:nth-child(1) a:hover,
+a:active {
+    border-bottom: 8px solid #d35400;
+}
+
+.navbar li:nth-child(2) a:hover,
+a:active {
+    border-bottom: 8px solid greenyellow;
+}
+
+.navbar li:nth-child(3) a:hover,
+a:active {
+    border-bottom: 8px solid rgb(0, 87, 0);
+}
+
+.navbar li:nth-child(4) a:hover,
+a:active {
+    border-bottom: 8px solid blueviolet;
+}
+
+.navbar li:nth-child(5) a:hover,
+a:active {
+    border-bottom: 8px solid blue;
+}
+
+/* -----------------------------
+EXPLANATION-SECTION
+----------------------------- */
+.explanation-section {
+    background-color: rgb(221, 221, 221);
+    text-align: justify;
+    font-size: 125%;
+    font-family: 'PT Serif', serif;
+    font-style: italic;
+    padding: 25px;
+}
+
+/* -----------------------------
+TERRA-SECTION
+----------------------------- */
+.terra-section {
+    height: 80vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, .8)), url(../img/Grand\ Canyon\ 08\ \(1\).JPG);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.terra-section-header {
+    position: absolute;
+    color: #d35400;
+    font-size: 450%;
+    top: 5%;
+    left: 5%;
+}
+
+.terra-section-copy {
+    color: #d35400;
+    padding-top: 15%;
+    font-size: 150%;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
