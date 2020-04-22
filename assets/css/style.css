@@ -31,12 +31,13 @@ header {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-35%, 10%);
+    /* transform: translate(-25%, 10%); */
 }
 
 .main-header {
     color: white;
-    font-size: 300%;
+    font-size: 600%;
+    text-transform: uppercase;
 }
 
 /* -----------------------------
@@ -74,17 +75,12 @@ a:active {
 
 .navbar li:nth-child(3) a:hover,
 a:active {
-    border-bottom: 8px solid rgb(0, 87, 0);
+    border-bottom: 8px solid blue;
 }
 
 .navbar li:nth-child(4) a:hover,
 a:active {
     border-bottom: 8px solid blueviolet;
-}
-
-.navbar li:nth-child(5) a:hover,
-a:active {
-    border-bottom: 8px solid blue;
 }
 
 /* -----------------------------
@@ -103,8 +99,8 @@ EXPLANATION-SECTION
 TERRA-SECTION
 ----------------------------- */
 .terra-section {
-    height: 80vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, .8)), url(../img/Grand\ Canyon\ 08\ \(1\).JPG);
+    height: 90vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/Grand\ Canyon\ 08\ \(1\).JPG);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -126,4 +122,112 @@ TERRA-SECTION
     position: absolute;
     top: 5%;
     left: 5%;
+}
+
+/* -----------------------------
+FLORA-SECTION
+----------------------------- */
+.flora-section {
+    height: 90vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/P6090257.JPG);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.flora-section-header {
+    position: absolute;
+    color: greenyellow;
+    font-size: 450%;
+    top: 5%;
+    left: 5%;
+}
+
+.flora-section-copy {
+    color: greenyellow;
+    padding-top: 15%;
+    font-size: 150%;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+/* -----------------------------
+FAUNA-SECTION
+----------------------------- */
+.fauna-section {
+    height: 90vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/_MG_9194\ \(1\).JPG);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.fauna-section-header {
+    position: absolute;
+    color: blue;
+    font-size: 450%;
+    top: 5%;
+    left: 5%;
+}
+
+.fauna-section-copy {
+    color: blue;
+    padding-top: 15%;
+    font-size: 150%;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+/* -----------------------------
+VISTA-SECTION
+----------------------------- */
+.vista-section {
+    height: 90vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/IMG_2947.JPG);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.vista-section-header {
+    position: absolute;
+    color: blueviolet;
+    font-size: 450%;
+    top: 5%;
+    left: 5%;
+}
+
+.vista-section-copy {
+    color: blueviolet;
+    padding-top: 15%;
+    font-size: 150%;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+
+/* -----------------------------
+FOOTER
+----------------------------- */
+footer {
+    height: 25vh;
+    background-color: rgb(137, 137, 255);
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 45px;
+    color: white;
+}
+
+footer .contactCopyright li a:link,
+a:visited {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    border-bottom: 1px solid white;
 }
