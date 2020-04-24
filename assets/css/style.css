@@ -111,6 +111,7 @@ TERRA-SECTION
     background-position: center;
     background-attachment: fixed;
     position: relative;
+    margin-bottom: 25px;
 }
 
 .terra-section-header {
@@ -138,9 +139,13 @@ TERRA-SECTION
 .terra-section-photos img {
     display: block;
     width: 60%;
+    height: auto;
     margin-left: auto;
     margin-right: auto;   
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
+
 
 /* -----------------------------
 FLORA-SECTION
@@ -152,6 +157,7 @@ FLORA-SECTION
     background-position: center;
     background-attachment: fixed;
     position: relative;
+    margin-bottom: 25px;
 }
 
 .flora-section-header {
@@ -169,6 +175,21 @@ FLORA-SECTION
     position: absolute;
     top: 5%;
     left: 5%;
+}
+
+.flora-section-photos {
+    width: 100%;
+    background-color: rgb(228, 226, 226);
+}
+
+.flora-section-photos img {
+    display: block;
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;   
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 /* -----------------------------
