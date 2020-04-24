@@ -1,6 +1,7 @@
 /* 
 font-family: 'Baloo Bhaina 2', cursive; 
 font-family: 'PT Serif', serif;
+font-family: 'IM Fell DW Pica', serif;
 */
 
 * {
@@ -87,13 +88,18 @@ a:active {
 EXPLANATION-SECTION
 ----------------------------- */
 .explanation-section {
-    background-color: rgb(221, 221, 221);
+    background-color: rgb(228, 226, 226);
     text-align: justify;
     font-size: 125%;
-    font-family: 'PT Serif', serif;
-    font-style: italic;
+    font-family: 'IM Fell DW Pica', serif;
+    line-height: 55px;
     padding: 25px;
 }
+
+/* -----------------------------
+IMAGES
+----------------------------- */
+
 
 /* -----------------------------
 TERRA-SECTION
@@ -122,6 +128,18 @@ TERRA-SECTION
     position: absolute;
     top: 5%;
     left: 5%;
+}
+
+.terra-section-photos {
+    width: 100%;
+    background-color: rgb(228, 226, 226);
+}
+
+.terra-section-photos img {
+    display: block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;   
 }
 
 /* -----------------------------
