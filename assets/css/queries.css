@@ -1,0 +1,176 @@
+/* XL Tablets */
+@media only screen and (max-width: 1320px) {
+    .main-header {
+        font-size: 540%;
+    }
+
+    .footer {
+        height: 35vh;
+    }
+}
+
+/* Large tablets to 1200px(widths smaller than 1140px row */
+@media only screen and (max-width: 1200px) {
+    .main-header {
+        font-size: 490%;
+    }
+    .terra-section-header {
+        font-size: 390%;
+    }
+
+    .terra-section-copy {
+        font-size: 130%;
+    }
+
+    .flora-section-header {
+        font-size: 390%;
+    }
+
+    .flora-section-copy {
+        font-size: 130%;
+    }
+
+    .fauna-section-header {
+        font-size: 390%;
+    }
+
+    .fauna-section-copy {
+        font-size: 130%;
+    }
+
+    .vista-section-header {
+        font-size: 390%;
+    }
+
+    .vista-section-copy {
+        font-size: 130%;
+    }
+}
+
+/* Small to large tablets */
+@media only screen and (max-width: 1023px) {
+    .main-header {
+        font-size: 450%;
+    }
+
+    .terra-section-header {
+        font-size: 350%;
+    }
+
+    .terra-section-copy {
+        font-size: 120%;
+    }
+
+    .flora-section-header {
+        font-size: 350%;
+    }
+
+    .flora-section-copy {
+        font-size: 120%;
+    }
+
+    .fauna-section-header {
+        font-size: 350%;
+    }
+
+    .fauna-section-copy {
+        font-size: 120%;
+    }
+
+    .vista-section-header {
+        font-size: 350%;
+    }
+
+    .vista-section-copy {
+        font-size: 120%;
+    }
+   
+}
+
+/* Large phones and small tablets, from 481-767 */
+@media only screen and (max-width: 767px) {
+
+    .main-header {
+        font-size: 340%;
+    }
+
+    .explanation-section {
+        font-size: 115%;
+    }
+
+    .terra-section-header {
+        font-size: 250%;
+    }
+
+    .terra-section-copy {
+        font-size: 100%;
+    }
+
+    .flora-section-header {
+        font-size: 250%;
+    }
+
+    .flora-section-copy {
+        font-size: 100%;
+    }
+
+    .fauna-section-header {
+        font-size: 250%;
+    }
+
+    .fauna-section-copy {
+        font-size: 100%;
+    }
+
+    .vista-section-header {
+        font-size: 250%;
+    }
+
+    .vista-section-copy {
+        font-size: 100%;
+    }
+
+}
+
+/* Small and Midrange Phones up to 480px */
+@media only screen and (max-width: 480px) {
+    .main-header {
+        font-size: 210%;
+    }
+
+    .explanation-section {
+        font-size: 95%;
+    }
+
+    .terra-section-header {
+        font-size: 175%;
+    }
+
+    .terra-section-copy {
+        font-size: 80%;
+    }
+
+    .flora-section-header {
+        font-size: 175%;
+    }
+
+    .flora-section-copy {
+        font-size: 80%;
+    }
+
+    .fauna-section-header {
+        font-size: 175%;
+    }
+
+    .fauna-section-copy {
+        font-size: 80%;
+    }
+
+    .vista-section-header {
+        font-size: 175%;
+    }
+
+    .vista-section-copy {
+        font-size: 80%;
+    }
+}
