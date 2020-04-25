@@ -41,6 +41,24 @@ header {
     font-size: 600%;
     text-transform: uppercase;
 }
+/* -----------------------------
+HOMEBUTTON
+----------------------------- */
+.home-button-box {
+    display: block;
+    width: 10%;
+    margin: 0 auto;
+}
+
+.home-button {
+    display: inline-block;
+    color: green !important;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 150%;
+}
+
 
 /* -----------------------------
 NAVBAR
@@ -63,11 +81,6 @@ NAVBAR
 .navbar li a:visited {
     text-decoration: none;
     color: #fff;
-}
-
-.navbar-home a:hover,
-a:active {
-    border-bottom: 8px solid white;
 }
 
 .navbar-terra a:hover,
