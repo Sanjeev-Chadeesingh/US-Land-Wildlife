@@ -4,6 +4,46 @@
         font-size: 500%;
     }
 
+    .terra-section {
+        height: 80vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/terra-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/terra-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        margin-bottom: 25px;
+    }
+
+    .flora-section {
+        height: 80vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/flora-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/flora-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        margin-bottom: 25px;
+    }
+
+    .fauna-section {
+        height: 80vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/fauna-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/fauna-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        margin-bottom: 25px;
+    }
+
+    .vista-section {
+        height: 80vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/vista-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/vista-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        margin-bottom: 25px;
+    }
+
     .footer {
         height: 35vh;
     }
@@ -14,6 +54,51 @@
     .main-header {
         font-size: 410%;
     }
+
+    .terra-section {
+        height: 70vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/terra-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/terra-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        margin-bottom: 25px;
+    }
+
+    .flora-section {
+        height: 70vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/flora-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/flora-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        margin-bottom: 25px;
+    }
+
+    .fauna-section {
+        height: 70vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/fauna-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/fauna-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        margin-bottom: 25px;
+    }
+
+    .vista-section {
+        height: 70vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/vista-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/vista-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        margin-bottom: 25px;
+    }
+
     .terra-section-header {
         font-size: 360%;
     }
@@ -21,6 +106,7 @@
     .terra-section-copy {
         font-size: 130%;
     }
+
 
     .flora-section-header {
         font-size: 360%;
@@ -51,6 +137,50 @@
 @media only screen and (max-width: 1023px) {
     .main-header {
         font-size: 350%;
+    }
+
+    .terra-section {
+        height:60vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/terra-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/terra-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        margin-bottom: 25px;
+    }
+
+    .flora-section {
+        height:60vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/flora-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/flora-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        margin-bottom: 25px;
+    }
+
+    .fauna-section {
+        height:60vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/fauna-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/fauna-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        margin-bottom: 25px;
+    }
+
+    .vista-section {
+        height:60vh;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/vista-section-0-main.JPG);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/vista-section-0-main.JPG);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        position: relative;
+        margin-bottom: 25px;
     }
 
     .terra-section-header {
@@ -98,12 +228,34 @@
         font-size: 115%;
     }
 
+    .sub-section-photos img {
+        display: block;
+        width: 80%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;   
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .terra-section {
+        height: 40vh;
+        position: relative;
+        margin-bottom: 20px;
+    }
+
     .terra-section-header {
         font-size: 140%;
     }
 
     .terra-section-copy {
         font-size: 100%;
+    }
+
+    .flora-section {
+        height: 40vh;
+        position: relative;
+        margin-bottom: 20px;
     }
 
     .flora-section-header {
@@ -114,12 +266,24 @@
         font-size: 100%;
     }
 
+    .fauna-section {
+        height: 40vh;
+        position: relative;
+        margin-bottom: 20px;
+    }
+
     .fauna-section-header {
         font-size: 140%;
     }
 
     .fauna-section-copy {
         font-size: 100%;
+    }
+
+    .vista-section {
+        height: 40vh;
+        position: relative;
+        margin-bottom: 20px;
     }
 
     .vista-section-header {
@@ -130,6 +294,90 @@
         font-size: 100%;
     }
 
+}
+
+/* Small and Midrange Phones up to 567px */
+@media only screen and (max-width: 567px) {
+    .main-header {
+        font-size: 135%;
+    }
+
+    .navbar li {
+        margin-right: 15px;
+        display: inline-block;
+        font-weight: 600;
+        font-size: 70%;
+    }
+
+    .explanation-section {
+        font-size: 75%;
+    }
+
+    .sub-section-photos img {
+        display: block;
+        width: 80%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;   
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .terra-section {
+        height: 30vh;
+        position: relative;
+        margin-bottom: 15px;
+    }
+
+    .terra-section-header {
+        font-size: 150%;
+    }
+
+    .terra-section-copy {
+        font-size: 70%;
+    }
+
+    .flora-section {
+        height: 30vh;
+        position: relative;
+        margin-bottom: 15px;
+    }
+
+    .flora-section-header {
+        font-size: 150%;
+    }
+
+    .flora-section-copy {
+        font-size: 70%;
+    }
+
+    .fauna-section {
+        height: 30vh;
+        position: relative;
+        margin-bottom: 15px;
+    }
+
+    .fauna-section-header {
+        font-size: 150%;
+    }
+
+    .fauna-section-copy {
+        font-size: 70%;
+    }
+
+    .vista-section {
+        height: 30vh;
+        position: relative;
+        margin-bottom: 15px;
+    }
+
+    .vista-section-header {
+        font-size: 150%;
+    }
+
+    .vista-section-copy {
+        font-size: 70%;
+    }
 }
 
 /* Small and Midrange Phones up to 480px */
@@ -149,54 +397,20 @@
         font-size: 75%;
     }
 
-    .terra-section-header {
-        font-size: 150%;
+    .sub-section-photos img {
+        display: block;
+        width: 80%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;   
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
-    .terra-section-copy {
-        font-size: 70%;
-    }
-
-    .flora-section-header {
-        font-size: 150%;
-    }
-
-    .flora-section-copy {
-        font-size: 70%;
-    }
-
-    .fauna-section-header {
-        font-size: 150%;
-    }
-
-    .fauna-section-copy {
-        font-size: 70%;
-    }
-
-    .vista-section-header {
-        font-size: 150%;
-    }
-
-    .vista-section-copy {
-        font-size: 70%;
-    }
-}
-
-/* Small and Midrange Phones up to 480px */
-@media only screen and (max-width: 480px) {
-    .main-header {
-        font-size: 135%;
-    }
-
-    .navbar li {
-        margin-right: 15px;
-        display: inline-block;
-        font-weight: 600;
-        font-size: 70%;
-    }
-
-    .explanation-section {
-        font-size: 75%;
+    .terra-section {
+        height: 20vh;
+        position: relative;
+        margin-bottom: 10px;
     }
 
     .terra-section-header {
@@ -207,6 +421,12 @@
         font-size: 70%;
     }
 
+    .flora-section {
+        height: 20vh;
+        position: relative;
+        margin-bottom: 10px;
+    }
+
     .flora-section-header {
         font-size: 150%;
     }
@@ -215,12 +435,24 @@
         font-size: 70%;
     }
 
+    .fauna-section {
+        height: 20vh;
+        position: relative;
+        margin-bottom: 10px;
+    }
+
     .fauna-section-header {
         font-size: 150%;
     }
 
     .fauna-section-copy {
         font-size: 70%;
+    }
+
+    .vista-section {
+        height: 20vh;
+        position: relative;
+        margin-bottom: 10px;
     }
 
     .vista-section-header {

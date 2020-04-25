@@ -20,6 +20,7 @@ html, body {
 HEADER
 ----------------------------- */
 header {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/hero-image.JPG);
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/hero-image.JPG);
     background-size: cover;
     background-position: center;
@@ -104,6 +105,15 @@ EXPLANATION-SECTION
 /* -----------------------------
 IMAGES
 ----------------------------- */
+.sub-section-photos img {
+    display: block;
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;   
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
 
 
 /* -----------------------------
@@ -111,10 +121,11 @@ TERRA-SECTION
 ----------------------------- */
 .terra-section {
     height: 90vh;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/terra-section-0-main.JPG);
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/terra-section-0-main.JPG);
     background-size: cover;
     background-position: center;
-    /* background-attachment: fixed; */
+    background-attachment: fixed;
     position: relative;
     margin-bottom: 25px;
 }
@@ -141,26 +152,16 @@ TERRA-SECTION
     background-color: rgb(228, 226, 226);
 }
 
-.terra-section-photos img {
-    display: block;
-    width: 60%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;   
-    margin-top: 25px;
-    margin-bottom: 25px;
-}
-
-
 /* -----------------------------
 FLORA-SECTION
 ----------------------------- */
 .flora-section {
     height: 90vh;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/flora-section-0-main.JPG);
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/flora-section-0-main.JPG);
     background-size: cover;
     background-position: center;
-    /* background-attachment: fixed; */
+    background-attachment: fixed;
     position: relative;
     margin-bottom: 25px;
 }
@@ -187,25 +188,16 @@ FLORA-SECTION
     background-color: rgb(228, 226, 226);
 }
 
-.flora-section-photos img {
-    display: block;
-    width: 60%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;   
-    margin-top: 25px;
-    margin-bottom: 25px;
-}
-
 /* -----------------------------
 FAUNA-SECTION
 ----------------------------- */
 .fauna-section {
     height: 90vh;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/fauna-section-0-main.JPG);
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/fauna-section-0-main.JPG);
     background-size: cover;
     background-position: center;
-    /* background-attachment: fixed; */
+    background-attachment: fixed;
     position: relative;
     margin-bottom: 25px;
 }
@@ -232,25 +224,16 @@ FAUNA-SECTION
     background-color: rgb(228, 226, 226);
 }
 
-.fauna-section-photos img {
-    display: block;
-    width: 60%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;   
-    margin-top: 25px;
-    margin-bottom: 25px;
-}
-
 /* -----------------------------
 VISTA-SECTION
 ----------------------------- */
 .vista-section {
     height: 90vh;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/vista-section-0-main.JPG);
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/vista-section-0-main.JPG);
     background-size: cover;
     background-position: center;
-    /* background-attachment: fixed; */
+    background-attachment: fixed;
     position: relative;
     margin-bottom: 25px;
 }
@@ -270,16 +253,6 @@ VISTA-SECTION
     position: absolute;
     top: 5%;
     left: 5%;
-}
-
-.vista-section-photos img {
-    display: block;
-    width: 60%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;   
-    margin-top: 25px;
-    margin-bottom: 25px;
 }
 
 /* -----------------------------
