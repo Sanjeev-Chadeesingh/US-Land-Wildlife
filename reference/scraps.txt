@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>About | Sanjeev Chadeesingh</title>
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+</head>
+
+<body>
+
+  <header id="masthead">
+    <div class="container">
+      <a href="index.html" id="logo">Sanjeev Chadeesingh</a>
+      <nav>
+        <a href="index.html">About</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <div id="main-container" class="container">
+    <section class="main-section">
+      <h1>About Me</h1>
+
+      <img src="https://avatars2.githubusercontent.com/u/50384851?s=400&u=c8cbc825818414b7c4de686208435ce4c63c83d2&v=4" class="auth-image" alt="Sanjeev Chadeesingh">
+
+      <p>I'm an Orlando native, new to the world of coding.  I went to grade school in downtown Orlando, at Lake Highland Preparatory School.  From there, I went to UCF, majoring in Biology, on a pre-Med track.  My forray into the medical field lasted all of a year before I transferred schools to Rollins College.  Once there, I found I had an interest in literature, and subsequently graduated with a B.A. in English Literature.  Upon graduation, applying to law school or grad school was my next step, yet ultimately, neither field generated enough interest to make me devote myself to either of them.</p>
+
+      <p>I spent the following decade not quite sure what I wanted to do.  I worked in retail and hospitality in tourism, and became part owner of a retail business.  After a few good years, I was slowly pushed out of the market, via corporate interest in what I thought would remain a niche business and a growing e-commerce environment.</p>
+
+      <p>With a new life and a new start, I looked again at school.  I wanted to ensure I did not pick a field which corporate businesses or technology would encroach upon, but rather support.  The coding bootcamp I am currently enrolled in felt like the best fit.  The field of web development is in a constant state of growth, and I look forward to entering the field upon completion of my program.</p>
+
+    </section>
+
+  </div>
+
+  <footer>
+    <div class="container">
+      Copyright &copy; 
+    </div>
+  </footer>
+</body>
+
+</html>

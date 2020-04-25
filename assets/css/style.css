@@ -64,22 +64,27 @@ NAVBAR
     color: #fff;
 }
 
-.navbar li:nth-child(1) a:hover,
+.navbar-home a:hover,
+a:active {
+    border-bottom: 8px solid white;
+}
+
+.navbar-terra a:hover,
 a:active {
     border-bottom: 8px solid #d35400;
 }
 
-.navbar li:nth-child(2) a:hover,
+.navbar-flora a:hover,
 a:active {
     border-bottom: 8px solid greenyellow;
 }
 
-.navbar li:nth-child(3) a:hover,
+.navbar-fauna a:hover,
 a:active {
     border-bottom: 8px solid blue;
 }
 
-.navbar li:nth-child(4) a:hover,
+.navbar-vista a:hover,
 a:active {
     border-bottom: 8px solid blueviolet;
 }
