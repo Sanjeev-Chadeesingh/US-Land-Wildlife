@@ -91,7 +91,7 @@
 @media only screen and (max-width: 767px) {
 
     .main-header {
-        font-size: 260%;
+        font-size: 220%;
     }
 
     .explanation-section {
@@ -135,7 +135,7 @@
 /* Small and Midrange Phones up to 480px */
 @media only screen and (max-width: 480px) {
     .main-header {
-        font-size: 175%;
+        font-size: 135%;
     }
 
     .navbar li {
