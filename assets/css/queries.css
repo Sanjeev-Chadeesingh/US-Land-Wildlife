@@ -248,9 +248,10 @@
     }
 
     .terra-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 20px;
+        background-color: gray;
     }
 
     .terra-section-header {
@@ -262,9 +263,10 @@
     }
 
     .flora-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 20px;
+        background-color: gray;
     }
 
     .flora-section-header {
@@ -276,9 +278,10 @@
     }
 
     .fauna-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 20px;
+        background-color: gray;
     }
 
     .fauna-section-header {
@@ -290,9 +293,10 @@
     }
 
     .vista-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 20px;
+        background-color: gray;
     }
 
     .vista-section-header {
@@ -342,9 +346,10 @@
     }
 
     .terra-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 15px;
+        background-color: gray;
     }
 
     .terra-section-header {
@@ -356,9 +361,10 @@
     }
 
     .flora-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 15px;
+        background-color: gray;
     }
 
     .flora-section-header {
@@ -370,9 +376,10 @@
     }
 
     .fauna-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 15px;
+        background-color: gray;
     }
 
     .fauna-section-header {
@@ -384,9 +391,10 @@
     }
 
     .vista-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 15px;
+        background-color: gray;
     }
 
     .vista-section-header {
@@ -435,9 +443,10 @@
     }
 
     .terra-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 10px;
+        background-color: gray;
     }
 
     .terra-section-header {
@@ -449,9 +458,10 @@
     }
 
     .flora-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 10px;
+        background-color: gray;
     }
 
     .flora-section-header {
@@ -463,9 +473,10 @@
     }
 
     .fauna-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 10px;
+        background-color: gray;
     }
 
     .fauna-section-header {
@@ -477,9 +488,10 @@
     }
 
     .vista-section {
-        height: 35vh;
+        height: 45vh;
         position: relative;
         margin-bottom: 10px;
+        background-color: gray;
     }
 
     .vista-section-header {
