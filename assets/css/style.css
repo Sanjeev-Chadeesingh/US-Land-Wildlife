@@ -66,7 +66,7 @@ NAVBAR
 
 .navbar-home a:hover,
 a:active {
-    border-bottom: 8px solid red;
+    border-bottom: 8px solid white;
 }
 
 .navbar-terra a:hover,
