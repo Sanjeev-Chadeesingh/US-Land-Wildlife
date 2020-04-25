@@ -139,6 +139,16 @@
         font-size: 350%;
     }
 
+    .sub-section-photos img {
+        display: block;
+        width: 90%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;   
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
     .terra-section {
         height: 60vh;
         position: relative;
