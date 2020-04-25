@@ -87,11 +87,11 @@
    
 }
 
-/* Large phones and small tablets, from 481-767 */
+/* Large phones and small tablets, from 568-767 */
 @media only screen and (max-width: 767px) {
 
     .main-header {
-        font-size: 220%;
+        font-size: 180%;
     }
 
     .explanation-section {
@@ -99,7 +99,7 @@
     }
 
     .terra-section-header {
-        font-size: 180%;
+        font-size: 140%;
     }
 
     .terra-section-copy {
@@ -107,7 +107,7 @@
     }
 
     .flora-section-header {
-        font-size: 180%;
+        font-size: 140%;
     }
 
     .flora-section-copy {
@@ -115,7 +115,7 @@
     }
 
     .fauna-section-header {
-        font-size: 180%;
+        font-size: 140%;
     }
 
     .fauna-section-copy {
@@ -123,13 +123,63 @@
     }
 
     .vista-section-header {
-        font-size: 180%;
+        font-size: 140%;
     }
 
     .vista-section-copy {
         font-size: 100%;
     }
 
+}
+
+/* Small and Midrange Phones up to 480px */
+@media only screen and (max-width: 480px) {
+    .main-header {
+        font-size: 135%;
+    }
+
+    .navbar li {
+        margin-right: 15px;
+        display: inline-block;
+        font-weight: 600;
+        font-size: 70%;
+    }
+
+    .explanation-section {
+        font-size: 75%;
+    }
+
+    .terra-section-header {
+        font-size: 150%;
+    }
+
+    .terra-section-copy {
+        font-size: 70%;
+    }
+
+    .flora-section-header {
+        font-size: 150%;
+    }
+
+    .flora-section-copy {
+        font-size: 70%;
+    }
+
+    .fauna-section-header {
+        font-size: 150%;
+    }
+
+    .fauna-section-copy {
+        font-size: 70%;
+    }
+
+    .vista-section-header {
+        font-size: 150%;
+    }
+
+    .vista-section-copy {
+        font-size: 70%;
+    }
 }
 
 /* Small and Midrange Phones up to 480px */
