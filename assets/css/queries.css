@@ -238,6 +238,15 @@
         margin-bottom: 10px;
     }
 
+    .home-button {
+        display: inline-block;
+        color: green !important;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 75%;
+    }
+
     .terra-section {
         height: 35vh;
         position: relative;
@@ -323,6 +332,15 @@
         margin-bottom: 10px;
     }
 
+    .home-button {
+        display: inline-block;
+        color: green !important;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 75%;
+    }
+
     .terra-section {
         height: 35vh;
         position: relative;
@@ -405,6 +423,15 @@
         margin-right: auto;   
         margin-top: 10px;
         margin-bottom: 10px;
+    }
+
+    .home-button {
+        display: inline-block;
+        color: green !important;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 400;
+        font-size: 75%;
     }
 
     .terra-section {
