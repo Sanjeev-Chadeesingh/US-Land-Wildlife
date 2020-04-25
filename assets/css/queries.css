@@ -230,16 +230,16 @@
 
     .sub-section-photos img {
         display: block;
-        width: 80%;
+        width: 90%;
         height: auto;
         margin-left: auto;
         margin-right: auto;   
-        margin-top: 15px;
-        margin-bottom: 15px;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     .terra-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 20px;
     }
@@ -253,7 +253,7 @@
     }
 
     .flora-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 20px;
     }
@@ -267,7 +267,7 @@
     }
 
     .fauna-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 20px;
     }
@@ -281,7 +281,7 @@
     }
 
     .vista-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 20px;
     }
@@ -315,16 +315,16 @@
 
     .sub-section-photos img {
         display: block;
-        width: 80%;
+        width: 90%;
         height: auto;
         margin-left: auto;
         margin-right: auto;   
-        margin-top: 15px;
-        margin-bottom: 15px;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     .terra-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 15px;
     }
@@ -338,7 +338,7 @@
     }
 
     .flora-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 15px;
     }
@@ -352,7 +352,7 @@
     }
 
     .fauna-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 15px;
     }
@@ -366,7 +366,7 @@
     }
 
     .vista-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 15px;
     }
@@ -399,7 +399,7 @@
 
     .sub-section-photos img {
         display: block;
-        width: 80%;
+        width: 90%;
         height: auto;
         margin-left: auto;
         margin-right: auto;   
@@ -408,7 +408,7 @@
     }
 
     .terra-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 10px;
     }
@@ -422,7 +422,7 @@
     }
 
     .flora-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 10px;
     }
@@ -436,7 +436,7 @@
     }
 
     .fauna-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 10px;
     }
@@ -450,7 +450,7 @@
     }
 
     .vista-section {
-        height: 50vh;
+        height: 35vh;
         position: relative;
         margin-bottom: 10px;
     }
