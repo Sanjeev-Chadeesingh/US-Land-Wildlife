@@ -153,28 +153,24 @@
         height: 60vh;
         position: relative;
         margin-bottom: 25px;
-        background-size: contain;
     }
 
     .flora-section {
         height: 60vh;
         position: relative;
         margin-bottom: 25px;
-        background-size: contain;
     }
 
     .fauna-section {
         height: 60vh;
         position: relative;
         margin-bottom: 25px;
-        background-size: contain;
     }
 
     .vista-section {
         height: 60vh;
         position: relative;
         margin-bottom: 25px;
-        background-size: contain;
     }
 
     .terra-section-header {
@@ -249,7 +245,6 @@
         height: 45vh;
         position: relative;
         margin-bottom: 20px;
-        background-size: contain;
     }
 
     .terra-section-header {
@@ -264,7 +259,6 @@
         height: 45vh;
         position: relative;
         margin-bottom: 20px;
-        background-size: contain;
     }
 
     .flora-section-header {
@@ -279,7 +273,6 @@
         height: 45vh;
         position: relative;
         margin-bottom: 20px;
-        background-size: contain;
     }
 
     .fauna-section-header {
@@ -294,7 +287,6 @@
         height: 45vh;
         position: relative;
         margin-bottom: 20px;
-        background-size: contain;
     }
 
     .vista-section-header {
