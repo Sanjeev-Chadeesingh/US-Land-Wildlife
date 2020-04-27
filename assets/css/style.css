@@ -20,8 +20,8 @@ html, body {
 HEADER
 ----------------------------- */
 header {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/hero-image.JPG);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/hero-image.JPG);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/hero-image-min.JPG);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/hero-image-min.JPG);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -134,8 +134,8 @@ TERRA-SECTION
 ----------------------------- */
 .terra-section {
     height: 90vh;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/terra-section-0-main.JPG);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/terra-section-0-main.JPG);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/terra-section-0-main-min.JPG);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/terra-section-0-main-min.JPG);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -170,8 +170,8 @@ FLORA-SECTION
 ----------------------------- */
 .flora-section {
     height: 90vh;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/flora-section-0-main.JPG);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/flora-section-0-main.JPG);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/flora-section-0-main-min.JPG);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/flora-section-0-main-min.JPG);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -206,8 +206,8 @@ FAUNA-SECTION
 ----------------------------- */
 .fauna-section {
     height: 90vh;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/fauna-section-0-main.JPG);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/fauna-section-0-main.JPG);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/fauna-section-0-main-min.JPG);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/fauna-section-0-main-min.JPG);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -242,8 +242,8 @@ VISTA-SECTION
 ----------------------------- */
 .vista-section {
     height: 90vh;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/vista-section-0-main.JPG);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/vista-section-0-main.JPG);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, .7))), url(../img/vista-section-0-main-min.JPG);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, .7)), url(../img/vista-section-0-main-min.JPG);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
