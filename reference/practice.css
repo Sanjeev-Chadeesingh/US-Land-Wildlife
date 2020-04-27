@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 4px solid black;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.header {
+    border: 2px solid red;
+    margin: 5px;
+    height: 15vh;
+}
+
+.nav {
+    border: 2px solid green;
+    margin: 5px;
+    height: 5vh;
+    width: 15vw;
+    float: right;
+}
+
+.profile-pic {
+    border: 2px solid blue;
+    margin: 5px;
+    height: 30vh;
+    float: right;
+    width: 45vw;
+}
+
+.about-me {
+    border: 2px solid purple;
+    margin: 5px;
+    height: 30vh;
+    float: left;
+    width: 45vw;
+}
+
+.spacer {
+    clear: both;
+    height: 39vh;
+}
+
+.footer {
+    border: 2px solid orange;
+    margin: 5px;
+    height: 10vh;
+    clear: both;
+}
